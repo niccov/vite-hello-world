@@ -7,5 +7,7 @@
 <style>
 h1{
     text-align: center;
+
+    color: rgba(246, 255, 0, 0.98);
 }
 </style>
